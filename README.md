@@ -1,4 +1,4 @@
-# Monthly_Labor_Survey_Part-time_workers_Ratio_
+# monthly_labor_survey_part-time_workers_ratio_
 【毎月勤労統計調査(和歌山県)_産業別時系列表（パートタイム労働者比率及び対前年比差)です。】
 ◆毎月勤労統計調査とは
 〇調査の目的
